@@ -1,2 +1,2 @@
 # QGSS21
-QGSS21 Notebooks
+Qiskit Global Summer School 2021 Notebooks
